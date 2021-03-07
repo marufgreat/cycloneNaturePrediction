@@ -1,2 +1,2 @@
-# Cyclone_Nature_Prediction
+# cyclone_nature_prediction
 Cyclone Nature Prediction Using LSTM
